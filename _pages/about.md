@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Walker 3-34</p>
+    <p>George T. Walker Hall</p>
+    <p>Room 3-34</p>
     <p>700 University Ave</p>
     <p>Monroe, LA 71201</p>
 
@@ -18,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently an Assistant Professor and the Capital One Endowed Professor of Mathematics in the [Mathematics Program](https://ulm.edu/math) within the [School of Sciences](https://www.ulm.edu/sciences/) at the [University of Louisiana at Monroe](https://ulm.edu)
+I am currently an Assistant Professor and the Capital One Endowed Professor of Mathematics in the [Mathematics Program](https://ulm.edu/math) within the [School of Sciences](https://www.ulm.edu/sciences/) at the [University of Louisiana at Monroe](https://ulm.edu).
 I am also a [Project NExT (New Experiences in Teaching)](https://www.maa.org/programs-and-communities/professional-development/project-next) fellow in the Red '22 cohort.
 I was previously a Visiting Assistant Professor in the [Department of Mathematics](http://math.lafayette.edu) at [Lafayette College](http://lafayette.edu).
 
