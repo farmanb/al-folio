@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Websites for courses past and present
+description: An overview of my teaching.
 nav: true
 nav_order: 3
 universities: [University of Louisiana at Monroe, Lafayette College, University of South Carolina, University of Vermont]
