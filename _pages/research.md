@@ -19,6 +19,6 @@ For more specific details, see my [Research Statement]({% link /assets/pdf/resea
 My ORCID number is <a style="vertical-align: top;" href="https://orcid.org/0000-0002-3624-837X" target="orcid.widget" rel="noopener noreferrer">
   <img style="width: 1em; margin-right: .5em;" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" />orcid.org/0000-0002-3624-837X</a>
 
-Information about my publications can be found on my [Publications](/publications/) page.
+Information about my publications can be found on my [Publications]({% link _pages/publications.md %}) page.
 
 
