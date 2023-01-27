@@ -31,28 +31,24 @@
         contents:
          - Applied Mathematics
          - French
-- title: Experience
+- title: Appointments
   type: time_table
   contents:
     - title: Assistant Professor
       institution: University of Louisiana At Monroe
       year: 2020 - Present
+    - title: Capital One Endowed Professorship in Mathematics
+      institution: University of Louisiana At Monroe
+      year: 2020 - Present  
     - title: Visiting Assistant Professor
       institution: Lafayette College, Easton, Pennsylvania, USA
       year: 2018 - 2020
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2022
       items: 
-        - Capital One Endowed Professor of Mathematics
-    - year: 2021
-      items: 
-        - Capital One Endowed Professor of Mathematics
-    - year: 2020
-      items:
-        - Capital One Endowed Professor of Mathematics
+        - Project NExT Fellow (Red '22)
 - title: Funding
   type: time_table
   contents:
@@ -61,21 +57,26 @@
       year: 2023 - 2025
       description:
        - $142,041
-    - title: Capital One Endowed Professor of Mathematics
-      year: 2022 - 2023
-      description:
-       - $5370
-    - title: Capital One Endowed Professor of Mathematics
-      year: 2021 - 2022
-      description:
-       - $5070
-    - title: Capital One Endowed Professor of Mathematics
-      year: 2020 - 2021
-      description:
-       - $4790
+- title: Undergraduate Research Supervision
+  type: time_table
+  contents:
+    - title: Sagar Bhetuwal
+      year: Spring 2021
+      description: Number Theory research project focused on providing a formal verification of the proof of the Prime Number Theorem using the Lean proof assistant.
+    - title: George Khawas
+      year: Spring 2023
+      description: Knot Theory research project focused analyzing winning strategies for novel families of knot shadows in the Knotting-Unknotting game. (In Review)
+    - title: Reeya Dangol
+      year: Spring 2023
+      description: Knot Theory research project focused analyzing winning strategies for novel families of knot shadows in the Knotting-Unknotting game. (In Review)
 - title: Conferences and Workshops
   type: time_table
   contents:
+    - title: "Mathematical Association of America MathFest"
+      institution: "Tampa, FL"
+      description: "Project NExT"
+      year: 2023
+      description: "Project NExT"
     - title: "Joint Mathematics Meetings"
       institution: "Boston, MA"
       year: 2023
