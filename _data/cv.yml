@@ -11,19 +11,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy
+    - title: Doctor of Philosophy, Mathematics
       institution: University of South Carolina, Columbia, South Carolina, USA
       year: 2018
       description:
         - "Dissertation: Geometry of Derived Categories on Noncommutative Projective Schemes"
         - "Advisor: Matthew Ballard"
-    - title: Master of Science
+    - title: Master of Science, Mathematics
       institution: University of Vermont, Burlington, Vermont, USA
       year: 2011
       description:
         - "Major Concentration: Abstract Algebra"
         - "Minor Concentration: Algebraic Number Theory"
-    - title: Bachelor of Science
+    - title: Bachelor of Science, Computer Science
       institution: Rensselaer Polytechnic Institute, Troy, New York, USA
       year: 2009
       description:
