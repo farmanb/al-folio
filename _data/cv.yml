@@ -63,12 +63,6 @@
     - title: Sagar Bhetuwal
       year: Spring 2021
       description: Number Theory research project focused on providing a formal verification of the proof of the Prime Number Theorem using the Lean proof assistant.
-    - title: George Khawas
-      year: Spring 2023
-      description: Knot Theory research project focused analyzing winning strategies for novel families of knot shadows in the Knotting-Unknotting game. (In Review)
-    - title: Reeya Dangol
-      year: Spring 2023
-      description: Knot Theory research project focused analyzing winning strategies for novel families of knot shadows in the Knotting-Unknotting game. (In Review)
 - title: Conferences and Workshops
   type: time_table
   contents:
