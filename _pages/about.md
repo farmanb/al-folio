@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor, <a href='https://www.ulm.edu'>University of Louisiana at Monroe</a>.
 

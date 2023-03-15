@@ -148,6 +148,9 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path:output_ext
+  standards:
+    output: true
+    permalink: /:collection/:path:output_ext
   sections:
     output: true
     permalink: /sections/:path:output_ext
