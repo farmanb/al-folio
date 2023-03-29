@@ -3,7 +3,10 @@ layout: page
 title: For Our Future Conference Resources
 permalink: /sbg-resources/
 ---
-
+<h2>Slides</h2>
+<ul>
+<li><a href="{% link /assets/pdf/sbg.pdf %}">Implementing Standards Based Grading in STEM</a></li>
+</ul>
 <h2>Sample Materials</h2>
 <ul>
   <li><a href="{% link _pages/standards.md %}">Standards</a> (Blake Farman)</li>
@@ -41,7 +44,7 @@ permalink: /sbg-resources/
   <li><a href="https://blogs.ams.org/matheducation/2015/11/20/a-beginners-guide-to-standards-based-grading/">A Beginner’s Guide to Standards Based Grading</a>, AMS Blog post by Kate Owens</li>
   <li><a href="https://docs.google.com/document/d/1oWBOxRhU3kqizhJcbSYFc-33p_HyftA4FYh4zI6-ZUA/edit">FAQ</a> by David Clark, Grand Valley State University</li>
   <li><a href="https://alternativegrading.slack.com">Alternative Grading Slack Channel</a></li>
-  <li><a href="https://checkit.clontz.org">CheckIt</a>, a free and open randomized exercises for practice and assessment</li>
+  <li><a href="https://checkit.clontz.org">CheckIt</a>, free and open randomized exercises for practice and assessment</li>
 </ul>
 
 <h2>Meetings and Workshops</h2>

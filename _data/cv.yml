@@ -66,6 +66,9 @@
 - title: Conferences and Workshops
   type: time_table
   contents:
+    - title: "University of Louisiana System For our Future 2023"
+      institution: "Lake Charles, LA"
+      year: 2023
     - title: "Mathematical Association of America MathFest"
       institution: "Tampa, FL"
       description: "Project NExT"
