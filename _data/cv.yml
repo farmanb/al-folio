@@ -57,9 +57,12 @@
       year: 2023 - 2025
       description:
        - $142,041
-- title: Undergraduate Research Supervision
+- title: Undergraduate Mentoring and Research Supervision
   type: time_table
   contents:
+    - title: The Entrepreneurship Pelican Cup
+      year: Spring 2023
+      description: Served as faculty advisor for one of the six finalists in the Entrepreneurship Pelican Cup business competition.
     - title: Sagar Bhetuwal
       year: Spring 2021
       description: Number Theory research project focused on providing a formal verification of the proof of the Prime Number Theorem using the Lean proof assistant.
