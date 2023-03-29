@@ -69,6 +69,10 @@
 - title: Conferences and Workshops
   type: time_table
   contents:
+    - title: "AMS Mathematics Research Community"
+      institution: "Beaver Hollow Conference Center, Java, NY"
+      year: 2023
+      description: "Derived Categories, Arithmetic and Geometry"
     - title: "University of Louisiana System For our Future 2023"
       institution: "Lake Charles, LA"
       year: 2023
