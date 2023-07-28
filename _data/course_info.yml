@@ -24,6 +24,14 @@
       time: '11:00 AM - 12:15 PM'
   location: 'George T. Walker Hall, Room 3 - 90'
 - course_number: 3080
+  crn: 44174
+  year: 2023
+  semester: Fall
+  meetings:
+    - day: 'Tuesday/Thursday'
+      time: '11:00 AM - 12:15 PM'
+  location: 'George T. Walker Hall, Room ???'  
+- course_number: 3080
   crn: 64863
   year: 2022
   semester: Spring
@@ -31,6 +39,14 @@
     - day: 'Monday/Wednesday'
       time: '9:30 AM - 10:45 AM'
   location: 'George T. Walker Hall, Room 1 - 116'
+- course_number: 3073
+  crn: 45407
+  year: 2023
+  semester: Fall
+  meetings:
+    - day: 'Tuesday/Thursday'
+      time: '2:00 PM - 3:15 PM'
+  location: 'George T. Walker Hall, Room 3 - 62'  
 - course_number: 2040
   crn: 65041
   year: 2023
@@ -72,7 +88,27 @@
   semester: Spring
   meetings:
     - day: 'Online Only'
-  schedule: yes    
+  schedule: yes
+- course_number: 1007
+  crn: 45282
+  year: 2023
+  semester: Fall
+  meetings:
+    - day: 'Monday/Wednesday'
+      time: '12:30 PM - 1:45 PM'
+  location: 'George T. Walker Hall, Room 3 - 53'
+  schedule: yes
+  syllabus_override: '/assets/syllabi/syllabus-1007-45282-F23.pdf'
+- course_number: 1007
+  crn: 45288
+  year: 2023
+  semester: Fall
+  meetings:
+    - day: 'Monday/Wednesday'
+      time: '2:00 PM - 3:15 PM'
+  location: 'George T. Walker Hall, Room 3 - 53'
+  schedule: yes
+  syllabus_override: '/assets/syllabi/syllabus-1007-45288-F23.pdf'  
 - course_number: 1007
   crn: 64979
   year: 2023
