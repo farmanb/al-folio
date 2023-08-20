@@ -1,4 +1,14 @@
 - year: 2023
+  semester: 'Fall'
+  times:
+  - day: 'Monday/Wednesday'
+    hours:
+     - '8:00 AM - 9:00 AM (Virtual)'
+     - '9:00 AM - 12:00 PM'
+     - '12:15 PM - 12:30 PM'
+     - '1:45 PM - 3:30 PM'
+  location: 'George T. Walker Hall, Room 3 - 34'
+- year: 2023
   semester: 'Spring'
   times:
   - day: 'Monday/Wednesday'
