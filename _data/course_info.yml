@@ -39,6 +39,16 @@
     - day: 'Monday/Wednesday'
       time: '9:30 AM - 10:45 AM'
   location: 'George T. Walker Hall, Room 1 - 116'
+- course_number: 3040
+  crn: 64086
+  year: 2024
+  semester: Spring
+  meetings:
+    - day: 'Tuesday/Thursday'
+      time: '9:30 AM - 10:45 AM'
+  location: 'George T. Walker Hall, Room 2 - 50'
+  schedule: no
+  syllabus_override: 'syllabi/3040/S24/index.html'
 - course_number: 2040
   crn: 65041
   year: 2023
@@ -78,6 +88,71 @@
   crn: 64042
   year: 2021
   semester: Spring
+  meetings:
+    - day: 'Online Only'
+  schedule: yes
+- course_number: 1031
+  crn: 63789
+  year: 2024
+  semester: Spring
+  meetings:
+    - day: 'Monday/Tuesday/Thursday/Friday'
+      time: '11:00 AM - 11:50 AM'
+  location: 'George T. Walker Hall, Room 3 - 84'
+  schedule: no
+  syllabus_override: 'syllabi/1031/S24/index.html'
+- course_number: 1011
+  crn: 63057
+  year: 2024
+  semester: Spring
+  meetings:
+    - day: 'Monday/Wednesday'
+      time: '11:00 AM - 12:15 PM'
+  location: 'George T. Walker Hall, Room 3 - 91'      
+  schedule: no
+  syllabus_override: 'syllabi/1011/S24/63057/index.html'
+- course_number: 1011
+  crn: 63167
+  year: 2024
+  semester: Spring
+  meetings:
+    - day: 'Monday/Wednesday'
+      time: '2:00 PM - 3:15 PM'
+  location: 'George T. Walker Hall, Room 3 - 91'
+  schedule: no
+  syllabus_override: 'syllabi/1011/S24/63167/index.html'
+- course_number: 1011
+  crn: 62691
+  year: 2021
+  semester: Spring
+  meetings:
+    - day: 'Online Only'
+  schedule: yes
+- course_number: 1011
+  crn: 62690
+  year: 2021
+  semester: Spring
+  meetings:
+    - day: 'Online Only'
+  schedule: yes    
+- course_number: 1011
+  crn: 43013
+  year: 2020
+  semester: Fall
+  meetings:
+    - day: 'Online Only'
+  schedule: yes    
+- course_number: 1011
+  crn: 43002
+  year: 2020
+  semester: Fall
+  meetings:
+    - day: 'Online Only'
+  schedule: yes    
+- course_number: 1011
+  crn: 42181
+  year: 2020
+  semester: Fall
   meetings:
     - day: 'Online Only'
   schedule: yes
@@ -163,41 +238,6 @@
     - day: 'Monday/Wednesday'
       time: '2:00 PM - 3:15 PM'
   location: 'George T. Walker Hall, Room 3 - 91'
-  schedule: yes
-- course_number: 1011
-  crn: 62691
-  year: 2021
-  semester: Spring
-  meetings:
-    - day: 'Online Only'
-  schedule: yes
-- course_number: 1011
-  crn: 62690
-  year: 2021
-  semester: Spring
-  meetings:
-    - day: 'Online Only'
-  schedule: yes    
-- course_number: 1011
-  crn: 43013
-  year: 2020
-  semester: Fall
-  meetings:
-    - day: 'Online Only'
-  schedule: yes    
-- course_number: 1011
-  crn: 43002
-  year: 2020
-  semester: Fall
-  meetings:
-    - day: 'Online Only'
-  schedule: yes    
-- course_number: 1011
-  crn: 42181
-  year: 2020
-  semester: Fall
-  meetings:
-    - day: 'Online Only'
   schedule: yes
 - course_number: 17
   crn: G
