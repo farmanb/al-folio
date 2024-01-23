@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3",
   "title": "Evaluation",
-  "body": " Evaluation   This course will use Mastery Based Grading . The content is broken into standards that you are expected to master by the end of the course.  This grading system is iterative in the sense that you will have multiple opportunities to display mastery of each standard, and forgetful in the sense that your previous unsuccessful attempts are discarded once you demonstrate mastery of a standard.  A description of each standard can be found in .    Assessments  Each assessment will contain problems corresponding to one or more standards. The standards are graded independently and, unlike quizzes or tests that you may have had in the past, there is no partial credit. To master a standard, you must master all of the problems that go with the standard.   Reassessment  There are scheduled Reassessment days for this course (see the ) where you will be given problems for every standard that you have not yet mastered . You may attempt as many as time allows.     Homework  Homework will be assigned regularly. The problems are chosen to highlight the core concepts from the standards. Mastery of these homework sets serves as a good indicator for performance on assessments. As such, you should ensure that you fully understand the material on these homework sets; that is, upon completion of the homework set, you should be capable of completing similar problems without the aid of the text, a computer, or any other tools not available during an exam.    Scoring  Written work in this course will be scored on the following scale.   Scale     Mastery (M)  The given solution is correct with no content related errors. Appropriate justification is provided in a clear, easy to follow manner.    Progressing (P)  The given solution demonstrates an understanding of the material, but contains content related errors or lacks justification.    Needs Improvement (N)  The given solution was blank, illegible, or used inappropriate techniques.                  Grading Scale  Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.   Grading Scale           Homework Grade    Number of Standards Mastered         18 20  A  B  B  B  C    16 17  B  B  C  C  D    14 15  C  C  C  D  F    12 13  D  D  D  D  F    0 11  F  F  F  F  F      "
+  "body": " Evaluation   This course will use Mastery Based Grading . The content is broken into standards that you are expected to master by the end of the course.  This grading system is iterative in the sense that you will have multiple opportunities to display mastery of each standard, and forgetful in the sense that your previous unsuccessful attempts are discarded once you demonstrate mastery of a standard.  A description of each standard can be found in .    Assessments  Each assessment will contain problems corresponding to one or more standards. The standards are graded independently and, unlike quizzes or tests that you may have had in the past, there is no partial credit. To master a standard, you must master all of the problems that go with the standard.   Reassessment  There are scheduled Reassessment days for this course (see the ) where you will be given problems for every standard that you have not yet mastered . You may attempt as many as time allows.     Homework  Homework will be assigned regularly. The problems are chosen to highlight the core concepts from the standards. Mastery of these homework sets serves as a good indicator for performance on assessments. As such, you should ensure that you fully understand the material on these homework sets; that is, upon completion of the homework set, you should be capable of completing similar problems without the aid of the text, a computer, or any other tools not available during an exam.    Scoring  Written work in this course will be scored on the following scale.   Scale     Mastery (M)  The given solution is correct with no content related errors. Appropriate justification is provided in a clear, easy to follow manner.    Progressing (P)  The given solution demonstrates an understanding of the material, but contains content related errors or lacks justification.    Needs Improvement (N)  The given solution was blank, illegible, or used inappropriate techniques.                  Grading Scale  Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.                                                                  Grading Scale           Number of Standards Mastered    Homework Grade  18 20  16 17  14 15  12 13  0 11     A  B  C  D  F     B  B  C  D  F     B  C  C  D  F     B  C  D  D  F     C  D  D  F  F      "
 },
 {
   "id": "evaluation-6-3",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "3.1",
   "title": "Grading Scale",
-  "body": " Grading Scale           Homework Grade    Number of Standards Mastered         18 20  A  B  B  B  C    16 17  B  B  C  C  D    14 15  C  C  C  D  F    12 13  D  D  D  D  F    0 11  F  F  F  F  F    "
+  "body": " Grading Scale           Number of Standards Mastered    Homework Grade  18 20  16 17  14 15  12 13  0 11     A  B  C  D  F     B  B  C  D  F     B  C  C  D  F     B  C  D  D  F     C  D  D  F  F    "
 },
 {
   "id": "standards",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8",
   "title": "Schedule",
-  "body": " Schedule   Contact Information     Professor  Dr. Blake Farman    Phone Number  (318) 342-1851    Email Address   farman (at) ulm (dot) edu    Website      Office  Walker 3-34       Office Hours                   Monday  8:00 AM 9:00 AM (Virtual)  9:00 AM 11:00 AM    Tuesday  8:30 AM 9:30 AM    Wednesday  8:00 AM 9:00 AM (Virtual)  9:00 AM 11:00 AM    Thursday  8:30 AM 9:30 AM    Friday  9:00 AM 11:00 AM        January 15 January 19   Week 1         1\/15  1\/16  1\/17  1\/18  1\/19    No Classes (MLK Day)   Sets         January 22 January 26   Week 2         1\/22  1\/23  1\/24  1\/25  1\/26     Cartesian Coordinates  Graphing Equations     The Distance Formula  The Midpoint Formula  Circles          January 29 February 2   Week 3         1\/29  1\/30  1\/31  2\/1  2\/2    Functions   Graph Transformations         February 5 February 9   Week 4         2\/5  2\/6  2\/7  2\/8  2\/9    Symmetry   Measures of Change         February 12 February 16   Week 5         2\/12  2\/13  2\/14  2\/15  2\/16    No Classes (Mardi Gras)  Polynomial Functions         February 19 February 23   Week 6         2\/19  2\/20  2\/21  2\/22  2\/23    Polynomial Division   Reassessment 1         February 26 March 1   Week 7         2\/26  2\/27  2\/28  2\/29  3\/1     Linear Functions  Representation of Lines     Representation of Lines  Parallel and Perpendicular Lines          March 4 March 8   Week 8         3\/4  3\/5  3\/6  3\/7  3\/8    Linear Inequalities   Quadratic Functions         March 11 March 15   Week 9         3\/11  3\/12  3\/13  3\/14  3\/15    Roots of Quadratic Functions   Polynomial Inequalities         March 18 March 22   Week 10         3\/18  3\/19  3\/20  3\/21  3\/22    Systems of Linear Equations   Reassessment 2         March 25 March 29   Week 11         3\/25  3\/26  3\/27  3\/28  3\/29    Algebraic Combinations of Functions   Rational Functions         April 1 April 5   Week 12         4\/1  4\/2  4\/3  4\/4  4\/5     No Classes (Spring Break)        April 8 April 12   Week 13         4\/8  4\/9  4\/10  4\/11  4\/12    Composition    Inverses  Graphing Inverse Functions          April 15 April 19   Week 14         4\/15  4\/16  4\/17  4\/18  4\/19    Piecewise Defined Functions   Reassessment 3         April 22 April 26   Week 15         4\/22  4\/23  4\/24  4\/25  4\/26     The Exponential Function  The Logarithm     Other Exponentials  Other Logarithms          April 29 May 3   Week 16         4\/29  4\/30  5\/1  5\/2  5\/3     Modeling with Exponential Functions    No Classes (Student Study Day)  Final Exams   Final Exam  Math 1011  1:00 PM  2:50 AM        May 6 May 7   Week 17      5\/6  5\/7    Final Exams  Final Exams          The instructor reserves the right to modify the schedule as needed.    "
+  "body": " Schedule   Contact Information     Professor  Dr. Blake Farman    Phone Number  (318) 342-1851    Email Address   farman (at) ulm (dot) edu    Website      Office  Walker 3-34       Office Hours                   Monday  8:00 AM 9:00 AM (Virtual)  9:00 AM 11:00 AM    Tuesday  8:30 AM 9:30 AM    Wednesday  8:00 AM 9:00 AM (Virtual)  9:00 AM 11:00 AM    Thursday  8:30 AM 9:30 AM    Friday  9:00 AM 11:00 AM        January 15 January 19   Week 1         1\/15  1\/16  1\/17  1\/18  1\/19    No Classes (MLK Day)  Classes Cancelled (Inclement Weather)  Classes Cancelled (Inclement Weather)  Classes Cancelled (Inclement Weather)        January 22 January 26   Week 2         1\/22  1\/23  1\/24  1\/25  1\/26    Sets    Cartesian Coordinates  Graphing Equations          January 29 February 2   Week 3         1\/29  1\/30  1\/31  2\/1  2\/2     The Distance Formula  The Midpoint Formula  Circles    Functions         February 5 February 9   Week 4         2\/5  2\/6  2\/7  2\/8  2\/9     Graph Transformations  Symmetry    Measures of Change         February 12 February 16   Week 5         2\/12  2\/13  2\/14  2\/15  2\/16    No Classes (Mardi Gras)  Polynomial Functions         February 19 February 23   Week 6         2\/19  2\/20  2\/21  2\/22  2\/23    Polynomial Division   Reassessment 1         February 26 March 1   Week 7         2\/26  2\/27  2\/28  2\/29  3\/1     Linear Functions  Representation of Lines     Representation of Lines  Parallel and Perpendicular Lines          March 4 March 8   Week 8         3\/4  3\/5  3\/6  3\/7  3\/8    Linear Inequalities   Quadratic Functions         March 11 March 15   Week 9         3\/11  3\/12  3\/13  3\/14  3\/15    Roots of Quadratic Functions   Polynomial Inequalities         March 18 March 22   Week 10         3\/18  3\/19  3\/20  3\/21  3\/22    Systems of Linear Equations   Reassessment 2         March 25 March 29   Week 11         3\/25  3\/26  3\/27  3\/28  3\/29    Algebraic Combinations of Functions   Rational Functions         April 1 April 5   Week 12         4\/1  4\/2  4\/3  4\/4  4\/5     No Classes (Spring Break)        April 8 April 12   Week 13         4\/8  4\/9  4\/10  4\/11  4\/12    Composition    Inverses  Graphing Inverse Functions          April 15 April 19   Week 14         4\/15  4\/16  4\/17  4\/18  4\/19    Piecewise Defined Functions   Reassessment 3         April 22 April 26   Week 15         4\/22  4\/23  4\/24  4\/25  4\/26     The Exponential Function  The Logarithm     Other Exponentials  Other Logarithms          April 29 May 3   Week 16         4\/29  4\/30  5\/1  5\/2  5\/3     Modeling with Exponential Functions    No Classes (Student Study Day)  Final Exams   Final Reassessment  Math 1011  1:00 PM  2:50 PM        May 6 May 7   Week 17      5\/6  5\/7    Final Exams  Final Exams          The instructor reserves the right to modify the schedule as needed.    "
 },
 {
   "id": "schedule-4-2",
@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "8.1",
   "title": "Week 1",
-  "body": " Week 1         1\/15  1\/16  1\/17  1\/18  1\/19    No Classes (MLK Day)   Sets      "
+  "body": " Week 1         1\/15  1\/16  1\/17  1\/18  1\/19    No Classes (MLK Day)  Classes Cancelled (Inclement Weather)  Classes Cancelled (Inclement Weather)  Classes Cancelled (Inclement Weather)     "
 },
 {
   "id": "schedule-5-2",
@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "8.2",
   "title": "Week 2",
-  "body": " Week 2         1\/22  1\/23  1\/24  1\/25  1\/26     Cartesian Coordinates  Graphing Equations     The Distance Formula  The Midpoint Formula  Circles       "
+  "body": " Week 2         1\/22  1\/23  1\/24  1\/25  1\/26    Sets    Cartesian Coordinates  Graphing Equations       "
 },
 {
   "id": "schedule-6-2",
@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "8.3",
   "title": "Week 3",
-  "body": " Week 3         1\/29  1\/30  1\/31  2\/1  2\/2    Functions   Graph Transformations      "
+  "body": " Week 3         1\/29  1\/30  1\/31  2\/1  2\/2     The Distance Formula  The Midpoint Formula  Circles    Functions      "
 },
 {
   "id": "schedule-7-2",
@@ -115,7 +115,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "8.4",
   "title": "Week 4",
-  "body": " Week 4         2\/5  2\/6  2\/7  2\/8  2\/9    Symmetry   Measures of Change      "
+  "body": " Week 4         2\/5  2\/6  2\/7  2\/8  2\/9     Graph Transformations  Symmetry    Measures of Change      "
 },
 {
   "id": "schedule-8-2",
@@ -223,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "8.16",
   "title": "Week 16",
-  "body": " Week 16         4\/29  4\/30  5\/1  5\/2  5\/3     Modeling with Exponential Functions    No Classes (Student Study Day)  Final Exams   Final Exam  Math 1011  1:00 PM  2:50 AM     "
+  "body": " Week 16         4\/29  4\/30  5\/1  5\/2  5\/3     Modeling with Exponential Functions    No Classes (Student Study Day)  Final Exams   Final Reassessment  Math 1011  1:00 PM  2:50 PM     "
 },
 {
   "id": "schedule-20-2",

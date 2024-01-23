@@ -47,16 +47,12 @@ layout: default
       {% else %}
       <a href="{% link /assets/syllabi/syllabus-{{info.course_number}}-{{info.crn}}.pdf %}">Syllabus</a>
       {% endif %}
+      {% if info.schedule %}
+    <p>
+      <a href="{% link {{ info.schedule }} %}">Schedule</a>
     </p>
+    {% endif %}
   </div>
   {% endunless %}
-  {% if info.schedule %}
-  <!-- <h3>Schedule</h3> -->
-  <div style="padding-left: 30px">
-    <p>
-
-    </p>
-  </div>
-  {% endif %}
 </div>
 {{ content }}
