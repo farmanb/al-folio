@@ -229,7 +229,7 @@
     - day: 'Tuesday/Thursday'
       time: '4:00 PM - 5:15 PM'
   location: 'Lafayette Hall, Room L403'
-  syllabus_override: 'syllabus-17-Fall-2009.html'
+  syllabus_override: 'syllabi/UVM/syllabus-17-Fall-2009.html'
 - course_number: 17
   crn: A
   year: 2010
@@ -238,7 +238,7 @@
     - day: 'Monday/Wednesday/Friday'
       time: '8:30 AM - 9:20 AM'
   location: 'Perkins Hall, Room 200'
-  syllabus_override: 'syllabus-17-Spring-2010.html'
+  syllabus_override: 'syllabi/UVM/syllabus-17-Spring-2010.html'
 - course_number: 17
   crn: Z2
   year: 2010
@@ -247,7 +247,7 @@
     - day: 'Monday - Thursday'
       time: '8:30 AM - 11:00 AM'
   location: 'Votey Hall, Room 209'
-  syllabus_override: 'syllabus-17-Summer-2010.html'
+  syllabus_override: 'syllabi/UVM/syllabus-17-Summer-2010.html'
 - course_number: 19
   crn: S
   year: 2010
@@ -256,7 +256,7 @@
     - day: 'Monday/Wednesday/Friday'
       time: '1:55 PM - 2:45 PM'
   location: 'Lafayette Hall, Room L210'  
-  syllabus_override: 'syllabus-19-S.html'
+  syllabus_override: 'syllabi/UVM/syllabus-19-S.html'
 - course_number: 19
   crn: W
   year: 2010
@@ -265,7 +265,7 @@
     - day: 'Monday/Wednesday/Friday'
       time: '3:00 PM - 3:50 PM'
   location: 'Lafayette Hall, Room L210'    
-  syllabus_override: 'syllabus-19-S.html'
+  syllabus_override: 'syllabi/UVM/syllabus-19-S.html'
 - course_number: 272
   crn: Section 01
   year: 2020
