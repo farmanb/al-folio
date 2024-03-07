@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "Schedule",
-  "body": " Schedule   Contact Information     Professor  Dr. Blake Farman    Phone Number  (318) 342-1851    Email Address   farman (at) ulm (dot) edu    Website      Office  Walker 3-34       Office Hours                   Monday  8:00 AM 9:00 AM (Virtual)  9:00 AM 11:00 AM    Tuesday  8:30 AM 9:30 AM    Wednesday  8:00 AM 9:00 AM (Virtual)  9:00 AM 11:00 AM    Thursday  8:30 AM 9:30 AM    Friday  9:00 AM 11:00 AM          January 15 January 19   Week 1         1\/15  1\/16  1\/17  1\/18  1\/19    No Classes (MLK Day)  Classes Cancelled (Inclement Weather)  Classes Cancelled (Inclement Weather)  Classes Cancelled (Inclement Weather)        January 22 January 26   Week 2         1\/22  1\/23  1\/24  1\/25  1\/26      5.1 Equivalent Sets; Finite Sets  5.2 Infinite Sets     5.3 Countable Sets  5.4 The Ordering of Cardinal Numbers         January 29 February 2   Week 3         1\/29  1\/30  1\/31  2\/1  2\/2     7.1 The Completeness Property   4.6 Sequences        February 5 February 9   Week 4         2\/5  2\/6  2\/7  2\/8  2\/9     4.7 Limits and Continuity of Real Functions   4.7 Limits and Continuity of Real Functions        February 12 February 16   Week 5         2\/12  2\/13  3\/14  2\/15  2\/16    No Classes (Mardi Gras)   7.2 The Heine-Borel Theorem        February 19 February 23   Week 6         2\/19  2\/20  2\/21  2\/22  2\/23     7.2 The Heine-Borel Theorem   7.3 The Bolzano-Weierstrass Theorem        February 26 March 1   Week 7         2\/26  2\/27  2\/28  2\/29  3\/1     7.3 The Bolzano-Weierstrass Theorem   7.4 The Bounded Monotone Sequence Theorem        March 4 March 8   Week 8         3\/4  3\/5  3\/6  3\/7  3\/8     7.4 The Bounded Monotone Sequence Theorem   Review        March 11 March 15   Week 9         3\/11  3\/12  3\/13  3\/14  3\/15     Exam 1   6.1 Algebraic Structure        March 18 March 22   Week 10         3\/18  3\/19  3\/20  3\/21  3\/22     6.1 Algebraic Structure   6.2 Groups        March 25 March 29   Week 11         3\/25  3\/26  3\/27  3\/28  3\/29     6.2 Groups   6.3 Subgroups        April 1 April 5   Week 12         4\/1  4\/2  4\/3  4\/4  4\/5     No Classes (Spring Break)        April 8 April 12   Week 13         4\/8  4\/9  4\/10  4\/11  4\/12     6.3 Subgroups   6.4 Operation Preserving Maps        April 15 April 19   Week 14         4\/15  4\/16  4\/17  4\/18  4\/19     6.4 Operation Preserving Maps   6.5 Rings and Fields        April 22 April 26   Week 15         4\/22  4\/23  4\/24  4\/25  4\/26     6.5 Rings and Fields   Exam 2        April 29 May 3   Week 16         4\/29  4\/30  5\/1  5\/2  5\/3     Review  No Classes (Student Study Day)  Final Exams   Final Exam  Math 3040  10:00 AM 11:50 AM        May 6 May 7   Week 17      5\/6  5\/7    Final Exams  Final Exams        The instructor reserves the right to modify the schedule as needed.    "
+  "body": " Schedule   Contact Information     Professor  Dr. Blake Farman    Phone Number  (318) 342-1851    Email Address   farman (at) ulm (dot) edu    Website      Office  Walker 3-34       Office Hours                   Monday  8:00 AM 9:00 AM (Virtual)  9:00 AM 11:00 AM    Tuesday  8:30 AM 9:30 AM    Wednesday  8:00 AM 9:00 AM (Virtual)  9:00 AM 11:00 AM    Thursday  8:30 AM 9:30 AM    Friday  9:00 AM 11:00 AM          January 15 January 19   Week 1         1\/15  1\/16  1\/17  1\/18  1\/19    No Classes (MLK Day)  Classes Cancelled (Inclement Weather)  Classes Cancelled (Inclement Weather)  Classes Cancelled (Inclement Weather)        January 22 January 26   Week 2         1\/22  1\/23  1\/24  1\/25  1\/26      5.1 Equivalent Sets; Finite Sets     5.2 Infinite Sets         January 29 February 2   Week 3         1\/29  1\/30  1\/31  2\/1  2\/2      5.3 Countable Sets     5.4 The Ordering of Cardinal Numbers         February 5 February 9   Week 4         2\/5  2\/6  2\/7  2\/8  2\/9      7.1 The Completeness Property     4.6 Sequences         February 12 February 16   Week 5         2\/12  2\/13  3\/14  2\/15  2\/16    No Classes (Mardi Gras)    4.7 Limits and Continuity of Real Functions         February 19 February 23   Week 6         2\/19  2\/20  2\/21  2\/22  2\/23      4.7 Limits and Continuity of Real Functions     7.2 The Heine-Borel Theorem         February 26 March 1   Week 7         2\/26  2\/27  2\/28  2\/29  3\/1      7.2 The Heine-Borel Theorem     7.2 The Heine-Borel Theorem         March 4 March 8   Week 8         3\/4  3\/5  3\/6  3\/7  3\/8      7.3 The Bolzano-Weierstrass Theorem     7.3 The Bolzano-Weierstrass Theorem  Review         March 11 March 15   Week 9         3\/11  3\/12  3\/13  3\/14  3\/15     Exam 1   6.1 Algebraic Structure        March 18 March 22   Week 10         3\/18  3\/19  3\/20  3\/21  3\/22     6.1 Algebraic Structure   6.2 Groups        March 25 March 29   Week 11         3\/25  3\/26  3\/27  3\/28  3\/29     6.2 Groups   6.3 Subgroups        April 1 April 5   Week 12         4\/1  4\/2  4\/3  4\/4  4\/5     No Classes (Spring Break)        April 8 April 12   Week 13         4\/8  4\/9  4\/10  4\/11  4\/12     6.3 Subgroups   6.4 Operation Preserving Maps        April 15 April 19   Week 14         4\/15  4\/16  4\/17  4\/18  4\/19     6.4 Operation Preserving Maps   6.5 Rings and Fields        April 22 April 26   Week 15         4\/22  4\/23  4\/24  4\/25  4\/26     6.5 Rings and Fields   Exam 2        April 29 May 3   Week 16         4\/29  4\/30  5\/1  5\/2  5\/3     Review  No Classes (Student Study Day)  Final Exams   Final Exam  Math 3040  10:00 AM 11:50 AM        May 6 May 7   Week 17      5\/6  5\/7    Final Exams  Final Exams        The instructor reserves the right to modify the schedule as needed.    "
 },
 {
   "id": "schedule-4-2",
@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.2",
   "title": "Week 2",
-  "body": " Week 2         1\/22  1\/23  1\/24  1\/25  1\/26      5.1 Equivalent Sets; Finite Sets  5.2 Infinite Sets     5.3 Countable Sets  5.4 The Ordering of Cardinal Numbers      "
+  "body": " Week 2         1\/22  1\/23  1\/24  1\/25  1\/26      5.1 Equivalent Sets; Finite Sets     5.2 Infinite Sets      "
 },
 {
   "id": "schedule-6-2",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.3",
   "title": "Week 3",
-  "body": " Week 3         1\/29  1\/30  1\/31  2\/1  2\/2     7.1 The Completeness Property   4.6 Sequences     "
+  "body": " Week 3         1\/29  1\/30  1\/31  2\/1  2\/2      5.3 Countable Sets     5.4 The Ordering of Cardinal Numbers      "
 },
 {
   "id": "schedule-7-2",
@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.4",
   "title": "Week 4",
-  "body": " Week 4         2\/5  2\/6  2\/7  2\/8  2\/9     4.7 Limits and Continuity of Real Functions   4.7 Limits and Continuity of Real Functions     "
+  "body": " Week 4         2\/5  2\/6  2\/7  2\/8  2\/9      7.1 The Completeness Property     4.6 Sequences      "
 },
 {
   "id": "schedule-8-2",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.5",
   "title": "Week 5",
-  "body": " Week 5         2\/12  2\/13  3\/14  2\/15  2\/16    No Classes (Mardi Gras)   7.2 The Heine-Borel Theorem     "
+  "body": " Week 5         2\/12  2\/13  3\/14  2\/15  2\/16    No Classes (Mardi Gras)    4.7 Limits and Continuity of Real Functions      "
 },
 {
   "id": "schedule-9-2",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.6",
   "title": "Week 6",
-  "body": " Week 6         2\/19  2\/20  2\/21  2\/22  2\/23     7.2 The Heine-Borel Theorem   7.3 The Bolzano-Weierstrass Theorem     "
+  "body": " Week 6         2\/19  2\/20  2\/21  2\/22  2\/23      4.7 Limits and Continuity of Real Functions     7.2 The Heine-Borel Theorem      "
 },
 {
   "id": "schedule-10-2",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.7",
   "title": "Week 7",
-  "body": " Week 7         2\/26  2\/27  2\/28  2\/29  3\/1     7.3 The Bolzano-Weierstrass Theorem   7.4 The Bounded Monotone Sequence Theorem     "
+  "body": " Week 7         2\/26  2\/27  2\/28  2\/29  3\/1      7.2 The Heine-Borel Theorem     7.2 The Heine-Borel Theorem      "
 },
 {
   "id": "schedule-11-2",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.8",
   "title": "Week 8",
-  "body": " Week 8         3\/4  3\/5  3\/6  3\/7  3\/8     7.4 The Bounded Monotone Sequence Theorem   Review     "
+  "body": " Week 8         3\/4  3\/5  3\/6  3\/7  3\/8      7.3 The Bolzano-Weierstrass Theorem     7.3 The Bolzano-Weierstrass Theorem  Review      "
 },
 {
   "id": "schedule-12-2",
